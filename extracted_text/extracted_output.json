@@ -1,3 +1,1 @@
-{
-    "extracted_text": "function updateUser() {\nvar http = new XMLHttpRequest();\nhttp.onreadystatechange = function() {\nif (this.readyState == 4 && this.status == 200) {\ndocument getElementByid(“demo’).innerHTML =\nthis.responseText;\n\n3\nhi\nhttp.open(‘PUT https:/ /61dc785d591c3a0017ela96d.mockapi.io/api/vi/u\nsers/78\", true);\nhttp.setRequestHeader(“Content-type’, “application/json’);\nhttp.send(JSON.stringify({'state’: Tamilnadu’}));\n\nfunction deleteUser() {\nvar http = new XMLHttpRequest();\nhttp.onreadystatechange = function() {\nif (this.readyState == 4 && this.status == 200) {\ndocument getélementByid(“demo’).innerHTML =\nthis.responseText;\n\n$\n"
-}
+
